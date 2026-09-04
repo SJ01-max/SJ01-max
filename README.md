@@ -1,5 +1,10 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,20,24,30&height=220&section=header&text=Heo%20Sungjae&fontSize=55&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=220&section=header&text=Heo%20Sungjae&fontSize=55&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=22&animation=fadeIn"
+    width="100%"
+  />
+</p>
 
 <div align="center">
 
@@ -72,10 +77,10 @@ Backend development을 중심으로
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
-## 🖥️ UIBowl
-### Multimodal Mobile UI Pattern Classification
+### 🖥️ UIBowl
+**Multimodal Mobile UI Pattern Classification**
 
 > Mobile app screenshots and flow sequences are analyzed to classify UI patterns automatically.
 
@@ -98,8 +103,8 @@ Backend development을 중심으로
 
 ---
 
-## 🤖 PMI RAG System
-### Natural Language Panel Extraction & Recommendation
+### 🤖 PMI RAG System
+**Natural Language Panel Extraction & Recommendation**
 
 > A system that extracts panels from natural-language queries and provides AI-based recommendations.
 
@@ -121,8 +126,8 @@ Backend development을 중심으로
 
 ---
 
-## 📱 Trip충
-### Chungcheong Travel Recommendation Service
+### 📱 Trip충
+**Chungcheong Travel Recommendation Service**
 
 > A travel service recommending seasonal destinations in the Chungcheong region.
 
@@ -141,8 +146,8 @@ Backend development을 중심으로
 
 ---
 
-## 🧊 SmartFridge
-### Smart Refrigerator Management Application
+### 🧊 SmartFridge
+**Smart Refrigerator Management Application**
 
 > A mobile application that manages refrigerator ingredients and recommends recipes.
 
@@ -158,14 +163,15 @@ Backend development을 중심으로
 
 ---
 
-## 👥 UMC Project
+### 👥 UMC Project
 
 > Collaborative web service development through UMC.
 
 **Role**
 - Frontend Team Leader
 - Frontend Architecture
-- Git Branch Strategy & Collaboration Management
+- Git Branch Strategy
+- Collaboration Management
 
 **Tech**
 
@@ -173,13 +179,62 @@ Backend development을 중심으로
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-```text
-Backend Architecture
-Spring Boot
-Docker
-AWS
-Database Optimization
-System Design
-Blockchain / Web3
+<p>
+  <img src="https://img.shields.io/badge/Backend%20Architecture-000000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Design-555555?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Blockchain%20%2F%20Web3-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+</p>
+
+---
+
+## 🐾 GitAnimals
+
+<div align="center">
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=SJ01-max&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/SJ01-max"
+    width="600"
+    height="300"
+  />
+</a>
+
+</div>
+
+---
+
+## 🏆 Experience
+
+- 🧑‍💻 **UIBowl Capstone Project — Team Leader**
+- 🤖 **AI / RAG Project — Team Leader**
+- 👥 **UMC Frontend Team Leader**
+- 📱 Multiple Web / Mobile Application Projects
+- 🗄️ Database Design & API Integration Experience
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+### Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/GitHub-SJ01--max-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SJ01-max)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=120&section=footer"
+    width="100%"
+  />
+</p>
