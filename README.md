@@ -28,7 +28,7 @@ React 프론트엔드 개발부터 API 연동까지, 서비스의 흐름을 연�
 - 🎓 한성대학교 컴퓨터공학 전공
 - 🗄️ PostgreSQL · pgvector 기반 데이터베이스 설계 및 관리 경험
 - 🤖 RAG 시스템 개발 및 멀티모달 AI 서비스 프로젝트 경험
-- 🤝 UIBowl · PMI RAG · UMC 프로젝트에서 팀 리딩 경험
+- 🤝 UIBowl · PMI RAG · Plog(UMC) 프로젝트에서 팀 리딩 경험
 
 ---
 
@@ -74,18 +74,21 @@ React 프론트엔드 개발부터 API 연동까지, 서비스의 흐름을 연�
 
 ## 🚀 Projects
 
-### 🤖 PMI RAG System
+### 🤖 PMI | Panel System
 
-자연어 질의에서 패널을 추출하고 AI 기반 추천을 제공하는 시스템입니다.
+자연어 질의를 해석하고 SQL 검색과 임베딩 기반 유사도 검색을 결합해 패널을 추출·분석하는 AI 플랫폼입니다.
 
-**담당 역할 · 팀장 / 데이터베이스 설계 및 관리 / RAG 시스템 개발**
+[GitHub Repository](https://github.com/SJ01-max/panel-doctor)
 
-- 데이터베이스 설계 및 관리 담당
-- 자연어 질의에 대한 추천을 제공하는 RAG 시스템 개발
+**담당 역할 · 프로젝트 총괄 / 백엔드·프론트엔드 개발**
 
-**주요 기능** · 벡터 유사도 검색, RAG 기반 추천, LLM Gateway 구조, PostgreSQL 벡터 데이터베이스 연동
+- 데이터베이스 적재 및 구축
+- LLM 구성 및 통합 구현
+- UI/UX 제작 및 프로젝트 총괄
 
-**프로젝트 기술** · `React` `Python` `LangChain` `PostgreSQL` `pgvector` `LLM`
+**프로젝트 주요 기능** · 하이브리드 패널 검색, 핵심 키워드 분석, 타겟 그룹 관리, 분석 대시보드, CSV·Excel·PDF 내보내기
+
+**프로젝트 기술** · `Python` `Flask` `PostgreSQL` `pgvector` `Claude API` `React` `TypeScript` `Vite` `Tailwind CSS`
 
 ---
 
@@ -105,26 +108,57 @@ React 프론트엔드 개발부터 API 연동까지, 서비스의 흐름을 연�
 
 ---
 
-### 🧊 SmartFridge
+### 👥 Plog | UMC
 
-냉장고 식재료를 관리하고 레시피를 추천하는 모바일 애플리케이션입니다.
+팀 프로젝트의 활동과 개인 기여를 기록하고, AI 기반 리포트로 정리하는 모바일 웹 서비스입니다.
 
-**주요 기능** · 사용자 인증, 식재료 관리, 레시피 추천, 백엔드 API 연동
+[GitHub Repository](https://github.com/UMC-Plog/Plog-FE)
 
-**프로젝트 기술** · `Flutter` `Spring Boot` `REST API`
+**담당 역할 · 프론트엔드 팀장 / 맥스**
+
+- 전역·프로젝트 채팅 화면 담당
+- 전역 리포트 및 PDF 뷰어 화면 담당
+- Peer 평가 화면 담당
+- 프론트엔드 아키텍처 설계 및 Git 브랜치 전략·팀 협업 관리
+
+**프로젝트 기술** · `React` `TypeScript` `Vite` `Zustand` `Tailwind CSS` `React Router`
 
 ---
 
-### 👥 UMC Project
+### 🔎 SpecCheck
 
-UMC 활동을 통해 팀으로 웹 서비스를 개발한 프로젝트입니다.
+취업 준비생을 위한 스펙 관리 및 커리어 성장 트래커의 백엔드 프로젝트입니다.
 
-**담당 역할 · 프론트엔드 팀장**
+[GitHub Repository](https://github.com/imJongWook/SpecCheck)
 
-- 프론트엔드 아키텍처 설계
-- Git 브랜치 전략 수립 및 팀 협업 관리
+**프로젝트 주요 기능**
 
-**프로젝트 기술** · `React` `TypeScript` `Git` `GitHub`
+- 카카오·구글 소셜 로그인 및 JWT Access/Refresh Token 기반 인증
+- 사용자 스펙·목표 기업 관리와 커리어 로드맵·미션·XP 관리
+- 취업 일정 관리, 기업 추천 및 스펙 격차 분석
+- Spring AI · OpenAI · MCP 연동과 SSE 기반 AI 분석 스트리밍
+
+**프로젝트 구조** · 도메인별 Controller · Service · Repository 분리, 공통 API 응답 및 전역 예외 처리
+
+**프로젝트 기술** · `Java 21` `Spring Boot 3.4.5` `Spring Data JPA` `PostgreSQL` `JWT` `OAuth` `Spring AI` `OpenAI` `MCP` `Maven`
+
+---
+
+### 🧊 SmartFridge | 냉슐랭
+
+냉장고 속 식재료를 관리하고, 보유 재료를 활용한 AI 레시피를 추천하는 모바일 앱입니다.
+
+[GitHub Organization](https://github.com/2025-SmartFridge) · [Frontend](https://github.com/2025-SmartFridge/Smartfridge_flutter) · [Backend](https://github.com/2025-SmartFridge/SmartFridge_Springboot)
+
+**담당 역할 · Flutter 프론트엔드 개발**
+
+- 주요 화면 UI/UX 설계 및 화면별 UI 컴포넌트 개발
+- 앱 디자인 시스템 구축
+- 내비게이션 구조 및 사용자 흐름 설계
+
+**프로젝트 주요 기능** · 식재료·유통기한 관리, AI 레시피 추천, 장바구니, 주변 마트 찾기
+
+**프로젝트 기술** · `Flutter` `Dart` `Spring Boot` `Spring Data JPA` `Spring Security` `H2` `Gemini API`
 
 ---
 
